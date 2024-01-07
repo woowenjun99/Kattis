@@ -1,8 +1,13 @@
 # Credits to Russell Dash
+from autokattis import Kattis
+from dotenv import load_dotenv
 import os
 
-try: from ak import diff_mapper
-except: diff_mapper = None
+# Load all the difficulty of the problems from Kattis.
+load_dotenv()
+kattis = Kattis(os.getenv("EMAIL"), os.getenv("PASSWORD"))
+problems = kattis.problems()
+diff_mapper = { problem["id"]: problem["difficulty"] for problem in problems }
 
 file_whitelist = {'bnn_accuracy.py', 'testing_tool.py', 'unununion_find.py', 'comp.py'}
 image_src = 'https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/' # hey this a credit!
