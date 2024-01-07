@@ -26,6 +26,7 @@ image_mapper = {
 }
 get_image = lambda e,s=24: f'{image_src}{image_mapper[e]}/{image_mapper[e]}_{s}x{s}.png'
 
+total_score = 0.0
 contents = []
 for main_dir in ['src', 'Secret']:
     for path, dirs, files in os.walk(main_dir):
@@ -61,6 +62,7 @@ for main_dir in ['src', 'Secret']:
         pid = (has_py or has_cpp or has_java).split('.')[0].split('-')[0] # another split to handle /autori
 
         url = f"https://open.kattis.com/problems/{pid}"
+        total_score += diff_mapper[pid]
         if nus:
             url = url.replace('open.kattis.com', 'nus.kattis.com').replace('problems/', 'problems/nus.')
             # NUS-exclusive problems first
@@ -73,6 +75,7 @@ for main_dir in ['src', 'Secret']:
 with open('README.md', 'w+') as f:
     f.seek(0)
     f.write(f'# Total problems solved: {len(contents)}\n\n')
+    f.write(f"## Total score: {round(total_score, 2)}\n\n")
     f.write('\n\n'.join([
         'Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).',
         'You might find [this link](https://stackoverflow.com/questions/42843288/is-there-any-way-to-make-markdown-tables-sortable) useful to interact with the table.',

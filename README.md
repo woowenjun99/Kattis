@@ -1,4 +1,6 @@
-# Total problems solved: 6
+# Total problems solved: 7
+
+## Total score: 22.4
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -13,4 +15,5 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Betting](https://open.kattis.com/problems/betting)| betting |1.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Betting/betting.cpp)|
 |[Conservation](https://open.kattis.com/problems/conservation)| conservation |4.9|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Conservation/conservation.cpp)|
 |[Disastrous Downtime](https://open.kattis.com/problems/downtime)| downtime |3.1|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Disastrous%20Downtime/downtime.cpp)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Disastrous%20Downtime/downtime.py)|
+|[Emergency Contest Running](https://open.kattis.com/problems/emergency)| emergency |4.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Emergency%20Contest%20Running/emergency.cpp)|
 |[Knigs of the Forest](https://open.kattis.com/problems/knigsoftheforest)| knigsoftheforest |4.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Knigs%20of%20the%20Forest/knigsoftheforest.py)|
