@@ -65,10 +65,8 @@ for main_dir in ['src', 'Secret']:
             if diff_mapper: contents.append([pid, f"|[{path}]({url})| {pid} |{diff_mapper[pid]}|{''.join(hyps).replace(' ','%20')}|\n"]); diff_mapper.pop(pid)
             else:           contents.append([pid, f"|[{path}]({url})| {pid} |{''.join(hyps).replace(' ','%20')}|\n"])
 
-lines = open('README.md', 'r').readlines()[:3]
-assert not diff_mapper, diff_mapper
 with open('README.md', 'w+') as f:
-    for line in lines: f.write(line)
+    f.seek(0)
     f.write(f'# Total problems solved: {len(contents)}\n\n')
     f.write('\n\n'.join([
         'Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).',
