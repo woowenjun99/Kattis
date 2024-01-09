@@ -1,6 +1,6 @@
-# Total problems solved: 16
+# Total problems solved: 17
 
-## Total score: 47.6
+## Total score: 50.9
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -26,3 +26,4 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Secret Message](https://open.kattis.com/problems/secretmessage)| secretmessage |1.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Secret%20Message/secretmessage.py)|
 |[Smallest Calculated Value](https://open.kattis.com/problems/smallestcalculatedvalue)| smallestcalculatedvalue |3.0|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Smallest%20Calculated%20Value/smallestcalculatedvalue.py)|
 |[A Towering Problem](https://open.kattis.com/problems/towering)| towering |2.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A%20Towering%20Problem/towering.py)|
+|[Where's My Waterfall?](https://open.kattis.com/problems/wheresmywaterfall)| wheresmywaterfall |3.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Where's%20My%20Waterfall?/wheresmywaterfall.py)|
