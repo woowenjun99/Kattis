@@ -1,6 +1,6 @@
-# Total problems solved: 17
+# Total problems solved: 18
 
-## Total score: 50.9
+## Total score: 54.6
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -10,6 +10,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
+|[1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy)| 1dfroggereasy |3.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/1-D%20Frogger%20(Easy)/1dfroggereasy.py)|
 |[Adding Trouble](https://open.kattis.com/problems/addingtrouble)| addingtrouble |1.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Adding%20Trouble/addingtrouble.py)|
 |[Annoyed Coworkers](https://open.kattis.com/problems/annoyedcoworkers)| annoyedcoworkers |3.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Annoyed%20Coworkers/annoyedcoworkers.py)|
 |[Betting](https://open.kattis.com/problems/betting)| betting |1.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Betting/betting.cpp)|
