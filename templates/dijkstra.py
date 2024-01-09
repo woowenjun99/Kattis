@@ -5,33 +5,29 @@ To be used for reference in the future.
 """
 from heapq import heappush, heappop
 
-def main():
-    f = open("dijkstra_in.txt", "r")
+def dijkstra(graph, src, vertices):
+    """
+    graph: An adjacency list built with defaultdict(list).
+    src: The source node.
+    vertices: The number of vertices
 
-    V, E, s = map(int, f.readline().split(" "))
-    AL = [[] for u in range(V)]
-    for _ in range(E):
-        u, v, w = map(int, f.readline().split(" "))
-        AL[u].append((v, w))                     # directed graph
-
+    Returns the distance array
+    """
     # (Modified) Dijkstra's routine
-    dist = [float("inf") for _ in range(V)]
-    dist[s] = 0
+    dist = [float("inf") for _ in range(vertices)]
+    dist[src] = 0
     pq = []
-    heappush(pq, (0, s))
+    heappush(pq, (0, src))
 
     # sort the pairs by non-decreasing distance from s
     while pq:                    # main loop
         d, u = heappop(pq)                  # shortest unvisited u
         if (d > dist[u]): continue          # a very important check
-        for v, w in AL[u]:                  # all edges from u
+        for v, w in graph[u]:                  # all edges from u
             if (dist[u]+w >= dist[v]): continue # not improving, skip
             dist[v] = dist[u]+w             # relax operation
             heappush(pq, (dist[v], v))  
 
-    for u in range(V):
-        print("SSSP({}, {}) = {}".format(s, u, dist[u]))
-
-main()
+    return dist
     
 
