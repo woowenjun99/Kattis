@@ -44,6 +44,7 @@ for main_dir in ['src', 'Secret']:
             elif len(path) == 3 and path[2] != '.nus': path, nus = path[2], False
             else: continue
 
+        ori_path = ori_path.replace("?", "%3f")
         hyps = []
         has_py = has_cpp = False; has_java = []
         for file in sorted(files):
