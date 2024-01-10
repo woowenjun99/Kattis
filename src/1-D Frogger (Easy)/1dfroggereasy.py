@@ -1,3 +1,16 @@
+"""
+Topic: Array
+
+Explanation:
+
+The solution would just to be simulate the frogger and determine the final steps.
+We keep track of where the frog visit to detect cycle. The time complexity will be
+O(n) since we expect the frog to travel the whole array before detecting a cycle
+again.
+
+Time complexity: O(n)
+Space complexit: O(n)
+"""
 import sys
 
 input = sys.stdin.readline
