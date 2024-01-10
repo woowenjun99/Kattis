@@ -1,6 +1,6 @@
-# Total problems solved: 39
+# Total problems solved: 40
 
-## Total score: 113.4
+## Total score: 116.1
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -47,5 +47,6 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Smallest Calculated Value](https://open.kattis.com/problems/smallestcalculatedvalue)| smallestcalculatedvalue |3.0|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Smallest%20Calculated%20Value/smallestcalculatedvalue.py)|
 |[Illuminated City](https://open.kattis.com/problems/stadiljus)| stadiljus |2.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Illuminated%20City/stadiljus.py)|
 |[A Towering Problem](https://open.kattis.com/problems/towering)| towering |2.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A%20Towering%20Problem/towering.py)|
+|[Where's My Internet??](https://open.kattis.com/problems/wheresmyinternet)| wheresmyinternet |2.7|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Where's%20My%20Internet%3f%3f/wheresmyinternet.cpp)|
 |[Where's My Waterfall?](https://open.kattis.com/problems/wheresmywaterfall)| wheresmywaterfall |3.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Where's%20My%20Waterfall%3f/wheresmywaterfall.py)|
 |[Zyxab](https://open.kattis.com/problems/zyxab)| zyxab |2.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Zyxab/zyxab.cpp)|
