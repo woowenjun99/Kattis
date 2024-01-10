@@ -1,6 +1,6 @@
-# Total problems solved: 36
+# Total problems solved: 37
 
-## Total score: 107.3
+## Total score: 109.9
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -36,6 +36,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Mæting](https://open.kattis.com/problems/maeting)| maeting |1.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mæting/maeting.py)|
 |[Massive Card Game](https://open.kattis.com/problems/massivecardgame)| massivecardgame |3.0|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Massive%20Card%20Game/massivecardgame.cpp)|
 |[Reachable Roads](https://open.kattis.com/problems/reachableroads)| reachableroads |2.1|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Reachable%20Roads/reachableroads.cpp)|
+|[Röðunarrugl](https://open.kattis.com/problems/rodunarrugl)| rodunarrugl |2.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Röðunarrugl/rodunarrugl.py)|
 |[Sailing Friends](https://open.kattis.com/problems/sailingfriends)| sailingfriends |3.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sailing%20Friends/sailingfriends.py)|
 |[Secret Message](https://open.kattis.com/problems/secretmessage)| secretmessage |1.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Secret%20Message/secretmessage.py)|
 |[Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)| shortestpath1 |3.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Single%20source%20shortest%20path,%20non-negative%20weights/shortestpath1.cpp)|
