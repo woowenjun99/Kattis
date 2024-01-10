@@ -1,6 +1,6 @@
-# Total problems solved: 23
+# Total problems solved: 24
 
-## Total score: 65.3
+## Total score: 68.1
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -11,6 +11,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
 |[1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy)| 1dfroggereasy |3.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/1-D%20Frogger%20(Easy)/1dfroggereasy.py)|
+|[3D Printed Statues](https://open.kattis.com/problems/3dprinter)| 3dprinter |2.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/3D%20Printed%20Statues/3dprinter.py)|
 |[Adding Trouble](https://open.kattis.com/problems/addingtrouble)| addingtrouble |1.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Adding%20Trouble/addingtrouble.py)|
 |[Akcija](https://open.kattis.com/problems/akcija)| akcija |2.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Akcija/akcija.py)|
 |[Annoyed Coworkers](https://open.kattis.com/problems/annoyedcoworkers)| annoyedcoworkers |3.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Annoyed%20Coworkers/annoyedcoworkers.py)|
