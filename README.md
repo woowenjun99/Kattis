@@ -1,6 +1,6 @@
-# Total problems solved: 29
+# Total problems solved: 30
 
-## Total score: 86.9
+## Total score: 90.3
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -34,6 +34,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Sailing Friends](https://open.kattis.com/problems/sailingfriends)| sailingfriends |3.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sailing%20Friends/sailingfriends.py)|
 |[Secret Message](https://open.kattis.com/problems/secretmessage)| secretmessage |1.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Secret%20Message/secretmessage.py)|
 |[Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)| shortestpath1 |3.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Single%20source%20shortest%20path,%20non-negative%20weights/shortestpath1.cpp)|
+|[Sim](https://open.kattis.com/problems/sim)| sim |3.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sim/sim.py)|
 |[Sith](https://open.kattis.com/problems/sith)| sith |1.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sith/sith.py)|
 |[Smallest Calculated Value](https://open.kattis.com/problems/smallestcalculatedvalue)| smallestcalculatedvalue |3.0|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Smallest%20Calculated%20Value/smallestcalculatedvalue.py)|
 |[Illuminated City](https://open.kattis.com/problems/stadiljus)| stadiljus |2.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Illuminated%20City/stadiljus.py)|
