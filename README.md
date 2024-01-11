@@ -1,6 +1,6 @@
-# Total problems solved: 40
+# Total problems solved: 41
 
-## Total score: 116.1
+## Total score: 117.3
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -29,7 +29,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[A Different Problem](https://open.kattis.com/problems/different)| different |2.9|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/A%20Different%20Problem/different.cpp)|
 |[Disastrous Downtime](https://open.kattis.com/problems/downtime)| downtime |3.1|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Disastrous%20Downtime/downtime.cpp)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Disastrous%20Downtime/downtime.py)|
 |[Emergency Contest Running](https://open.kattis.com/problems/emergency)| emergency |4.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Emergency%20Contest%20Running/emergency.cpp)|
-|[Fend Off Titan](https://open.kattis.com/problems/fendofftitan)| fendofftitan |2.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Fend%20Off%20Titan/fendofftitan.py)|
+|[Fend Off Titan](https://open.kattis.com/problems/fendofftitan)| fendofftitan |2.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Fend%20Off%20Titan/fendofftitan.py)|
 |[Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing)| greedilyincreasing |2.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Greedily%20Increasing%20Subsequence/greedilyincreasing.py)|
 |[Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)| harshadnumbers |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Harshad%20Numbers/harshadnumbers.py)|
 |[Interplanetary Tunnels](https://open.kattis.com/problems/interplanetarytunnels)| interplanetarytunnels |3.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Interplanetary%20Tunnels/interplanetarytunnels.py)|
@@ -44,9 +44,10 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)| shortestpath1 |3.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Single%20source%20shortest%20path,%20non-negative%20weights/shortestpath1.cpp)|
 |[Sim](https://open.kattis.com/problems/sim)| sim |3.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sim/sim.py)|
 |[Sith](https://open.kattis.com/problems/sith)| sith |1.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sith/sith.py)|
+|[Skammstöfun](https://open.kattis.com/problems/skammstofun)| skammstofun |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Skammstöfun/skammstofun.py)|
 |[Smallest Calculated Value](https://open.kattis.com/problems/smallestcalculatedvalue)| smallestcalculatedvalue |3.0|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Smallest%20Calculated%20Value/smallestcalculatedvalue.py)|
-|[Illuminated City](https://open.kattis.com/problems/stadiljus)| stadiljus |2.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Illuminated%20City/stadiljus.py)|
-|[A Towering Problem](https://open.kattis.com/problems/towering)| towering |2.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A%20Towering%20Problem/towering.py)|
+|[Illuminated City](https://open.kattis.com/problems/stadiljus)| stadiljus |2.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Illuminated%20City/stadiljus.py)|
+|[A Towering Problem](https://open.kattis.com/problems/towering)| towering |2.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A%20Towering%20Problem/towering.py)|
 |[Where's My Internet??](https://open.kattis.com/problems/wheresmyinternet)| wheresmyinternet |2.7|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Where's%20My%20Internet%3f%3f/wheresmyinternet.cpp)|
-|[Where's My Waterfall?](https://open.kattis.com/problems/wheresmywaterfall)| wheresmywaterfall |3.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Where's%20My%20Waterfall%3f/wheresmywaterfall.py)|
+|[Where's My Waterfall?](https://open.kattis.com/problems/wheresmywaterfall)| wheresmywaterfall |3.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Where's%20My%20Waterfall%3f/wheresmywaterfall.py)|
 |[Zyxab](https://open.kattis.com/problems/zyxab)| zyxab |2.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Zyxab/zyxab.cpp)|
