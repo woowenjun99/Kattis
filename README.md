@@ -1,6 +1,6 @@
-# Total problems solved: 45
+# Total problems solved: 46
 
-## Total score: 126.7
+## Total score: 129.4
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -16,6 +16,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Akcija](https://open.kattis.com/problems/akcija)| akcija |2.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Akcija/akcija.py)|
 |[Alphabet Animals](https://open.kattis.com/problems/alphabetanimals)| alphabetanimals |4.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Alphabet%20Animals/alphabetanimals.py)|
 |[Annoyed Coworkers](https://open.kattis.com/problems/annoyedcoworkers)| annoyedcoworkers |3.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Annoyed%20Coworkers/annoyedcoworkers.py)|
+|[Babelfish](https://open.kattis.com/problems/babelfish)| babelfish |2.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Babelfish/babelfish.py)|
 |[Backspace](https://open.kattis.com/problems/backspace)| backspace |2.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Backspace/backspace.py)|
 |[Betting](https://open.kattis.com/problems/betting)| betting |1.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Betting/betting.cpp)|
 |[Blooper Game](https://open.kattis.com/problems/bloopergame)| bloopergame |7.2|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Blooper%20Game/bloopergame.py)|
