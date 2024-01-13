@@ -1,6 +1,6 @@
-# Total problems solved: 49
+# Total problems solved: 50
 
-## Total score: 136.4
+## Total score: 137.9
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -31,6 +31,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Delimiter Soup](https://open.kattis.com/problems/delimitersoup)| delimitersoup |2.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Delimiter%20Soup/delimitersoup.py)|
 |[A Different Problem](https://open.kattis.com/problems/different)| different |2.8|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/A%20Different%20Problem/different.cpp)|
 |[Disastrous Downtime](https://open.kattis.com/problems/downtime)| downtime |3.1|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Disastrous%20Downtime/downtime.cpp)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Disastrous%20Downtime/downtime.py)|
+|[Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi)| ekkidaudi |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ekki%20dauði%20opna%20inni/ekkidaudi.py)|
 |[Emergency Contest Running](https://open.kattis.com/problems/emergency)| emergency |4.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Emergency%20Contest%20Running/emergency.cpp)|
 |[Fend Off Titan](https://open.kattis.com/problems/fendofftitan)| fendofftitan |2.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Fend%20Off%20Titan/fendofftitan.py)|
 |[Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing)| greedilyincreasing |2.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Greedily%20Increasing%20Subsequence/greedilyincreasing.py)|
