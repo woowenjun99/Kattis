@@ -1,10 +1,10 @@
-# Total problems solved: 107
+# Total problems solved: 128
 
-## Total score: 258.5
+## Total score: 302.0
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
-Average difficulty per question: 2.42
+Average difficulty per question: 2.36
 
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
@@ -52,13 +52,34 @@ Average difficulty per question: 2.42
 |[Build Dependencies](https://open.kattis.com/problems/builddeps)| builddeps |3.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Build%20Dependencies/builddeps.cpp)|
 |[Building Highways](https://open.kattis.com/problems/buildinghighways)| buildinghighways |1.9|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Building%20Highways/buildinghighways.cpp)|
 |[Bus Numbers](https://open.kattis.com/problems/busnumbers)| busnumbers |2.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bus%20Numbers/busnumbers.py)|
+|[Canadians, eh?](https://open.kattis.com/problems/canadianseh)| canadianseh |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Canadians,%20eh%3f/canadianseh.cpp)|
 |[CD](https://open.kattis.com/problems/cd)| cd |5.0|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/CD/cd.cpp)|
+|[Cetvrta](https://open.kattis.com/problems/cetvrta)| cetvrta |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Cetvrta/cetvrta.cpp)|
+|[Chanukah Challenge](https://open.kattis.com/problems/chanukah)| chanukah |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Chanukah%20Challenge/chanukah.cpp)|
 |[Cinema Crowds](https://open.kattis.com/problems/cinema)| cinema |2.2|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cinema%20Crowds/cinema.py)|
+|[Cinema Crowds 2](https://open.kattis.com/problems/cinema2)| cinema2 |1.8|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Cinema%20Crowds%202/cinema2.cpp)|
+|[Class Field Trip](https://open.kattis.com/problems/classfieldtrip)| classfieldtrip |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Class%20Field%20Trip/classfieldtrip.cpp)|
+|[Climbing Worm](https://open.kattis.com/problems/climbingworm)| climbingworm |2.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Climbing%20Worm/climbingworm.cpp)|
 |[A Furious Cocktail](https://open.kattis.com/problems/cocktail)| cocktail |2.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A%20Furious%20Cocktail/cocktail.py)|
+|[Code to Save Lives](https://open.kattis.com/problems/codetosavelives)| codetosavelives |1.7|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Code%20to%20Save%20Lives/codetosavelives.cpp)|
+|[Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo)| coffeecupcombo |1.7|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Coffee%20Cup%20Combo/coffeecupcombo.cpp)|
+|[Cold-puter Science](https://open.kattis.com/problems/cold)| cold |1.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Cold-puter%20Science/cold.cpp)|
+|[Colorland](https://open.kattis.com/problems/colorland)| colorland |4.2|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Colorland/colorland.cpp)|
+|[Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball)| competitivearcadebasketball |2.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Competitive%20Arcade%20Basketball/competitivearcadebasketball.cpp)|
+|[Conga Line](https://open.kattis.com/problems/congaline)| congaline |4.7|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Conga%20Line/congaline.cpp)|
 |[Conservation](https://open.kattis.com/problems/conservation)| conservation |4.9|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Conservation/conservation.cpp)|
+|[Contest Struggles](https://open.kattis.com/problems/conteststruggles)| conteststruggles |2.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Contest%20Struggles/conteststruggles.cpp)|
+|[Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)| conundrum |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Cryptographer's%20Conundrum/conundrum.cpp)|
 |[Cornhusker](https://open.kattis.com/problems/cornhusker)| cornhusker |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cornhusker/cornhusker.py)|
 |[Cosmic Path Optimization](https://open.kattis.com/problems/cosmicpathoptimization)| cosmicpathoptimization |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cosmic%20Path%20Optimization/cosmicpathoptimization.py)|
+|[Counting Stars](https://open.kattis.com/problems/countingstars)| countingstars |3.0|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Counting%20Stars/countingstars.cpp)|
+|[Count the Vowels](https://open.kattis.com/problems/countthevowels)| countthevowels |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Count%20the%20Vowels/countthevowels.cpp)|
+|[Course Scheduling](https://open.kattis.com/problems/coursescheduling)| coursescheduling |1.8|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Course%20Scheduling/coursescheduling.cpp)|
+|[CPR Number](https://open.kattis.com/problems/cprnummer)| cprnummer |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/CPR%20Number/cprnummer.cpp)|
 |[Cross Country](https://open.kattis.com/problems/crosscountry)| crosscountry |2.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cross%20Country/crosscountry.py)|
+|[Cudoviste](https://open.kattis.com/problems/cudoviste)| cudoviste |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Cudoviste/cudoviste.cpp)|
+|[Curve Speed](https://open.kattis.com/problems/curvespeed)| curvespeed |2.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Curve%20Speed/curvespeed.cpp)|
+|[Cut in Line](https://open.kattis.com/problems/cutinline)| cutinline |1.7|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Cut%20in%20Line/cutinline.cpp)|
 |[Cut the Negativity](https://open.kattis.com/problems/cutthenegativity)| cutthenegativity |1.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cut%20the%20Negativity/cutthenegativity.py)|
 |[Delimiter Soup](https://open.kattis.com/problems/delimitersoup)| delimitersoup |2.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Delimiter%20Soup/delimitersoup.py)|
 |[A Different Problem](https://open.kattis.com/problems/different)| different |2.8|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/A%20Different%20Problem/different.cpp)|
