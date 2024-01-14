@@ -1,6 +1,6 @@
-# Total problems solved: 66
+# Total problems solved: 67
 
-## Total score: 161.9
+## Total score: 163.5
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -58,6 +58,7 @@ Note that the table below is auto-generated using [autokattis](https://github.co
 |[Sim](https://open.kattis.com/problems/sim)| sim |3.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sim/sim.py)|
 |[Sith](https://open.kattis.com/problems/sith)| sith |1.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sith/sith.py)|
 |[Skammstöfun](https://open.kattis.com/problems/skammstofun)| skammstofun |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Skammstöfun/skammstofun.py)|
+|[Skocimis](https://open.kattis.com/problems/skocimis)| skocimis |1.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Skocimis/skocimis.py)|
 |[Smallest Calculated Value](https://open.kattis.com/problems/smallestcalculatedvalue)| smallestcalculatedvalue |3.0|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Smallest%20Calculated%20Value/smallestcalculatedvalue.py)|
 |[Sóttkví](https://open.kattis.com/problems/sottkvi)| sottkvi |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sóttkví/sottkvi.py)|
 |[Illuminated City](https://open.kattis.com/problems/stadiljus)| stadiljus |2.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Illuminated%20City/stadiljus.py)|
