@@ -1,12 +1,8 @@
-# Total problems solved: 59
+# Total problems solved: 60
 
-## Total score: 151.2
+## Total score: 152.7
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
-
-You might find [this link](https://stackoverflow.com/questions/42843288/is-there-any-way-to-make-markdown-tables-sortable) useful to interact with the table.
-
-For more Python data structure implementations, head over to [pytils](https://github.com/RussellDash332/pytils).
 
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
@@ -40,6 +36,7 @@ For more Python data structure implementations, head over to [pytils](https://gi
 |[Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout)| hangingout |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Hanging%20Out%20on%20the%20Terrace/hangingout.py)|
 |[Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)| harshadnumbers |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Harshad%20Numbers/harshadnumbers.py)|
 |[Height Ordering](https://open.kattis.com/problems/height)| height |2.0|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Height%20Ordering/height.cpp)|
+|[International Dates](https://open.kattis.com/problems/internationaldates)| internationaldates |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/International%20Dates/internationaldates.py)|
 |[Interplanetary Tunnels](https://open.kattis.com/problems/interplanetarytunnels)| interplanetarytunnels |3.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Interplanetary%20Tunnels/interplanetarytunnels.py)|
 |[Knigs of the Forest](https://open.kattis.com/problems/knigsoftheforest)| knigsoftheforest |4.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Knigs%20of%20the%20Forest/knigsoftheforest.py)|
 |[Liquid Assets](https://open.kattis.com/problems/liquidassets)| liquidassets |3.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Liquid%20Assets/liquidassets.cpp)|

@@ -78,9 +78,7 @@ with open('README.md', 'w+') as f:
     f.write(f'# Total problems solved: {len(contents)}\n\n')
     f.write(f"## Total score: {round(total_score, 2)}\n\n")
     f.write('\n\n'.join([
-        'Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).',
-        'You might find [this link](https://stackoverflow.com/questions/42843288/is-there-any-way-to-make-markdown-tables-sortable) useful to interact with the table.',
-        'For more Python data structure implementations, head over to [pytils](https://github.com/RussellDash332/pytils).'
+        'Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).'
     ])+'\n\n')
     if diff_mapper != None: f.write('|Problem Name|Problem ID|Difficulty|Languages|\n|:---|:---|:---|:---|\n')
     else:                   f.write('|Problem Name|Problem ID|Languages|\n|:---|:---|:---|\n')
