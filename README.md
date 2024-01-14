@@ -1,6 +1,6 @@
-# Total problems solved: 60
+# Total problems solved: 61
 
-## Total score: 152.7
+## Total score: 154.2
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -58,6 +58,7 @@ Note that the table below is auto-generated using [autokattis](https://github.co
 |[Sóttkví](https://open.kattis.com/problems/sottkvi)| sottkvi |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sóttkví/sottkvi.py)|
 |[Illuminated City](https://open.kattis.com/problems/stadiljus)| stadiljus |2.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Illuminated%20City/stadiljus.py)|
 |[Stafur](https://open.kattis.com/problems/stafur)| stafur |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Stafur/stafur.py)|
+|[Sticky Keys](https://open.kattis.com/problems/stickykeys)| stickykeys |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sticky%20Keys/stickykeys.py)|
 |[T9 Spelling](https://open.kattis.com/problems/t9spelling)| t9spelling |1.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/T9%20Spelling/t9spelling.py)|
 |[A Towering Problem](https://open.kattis.com/problems/towering)| towering |2.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A%20Towering%20Problem/towering.py)|
 |[Trip Planning](https://open.kattis.com/problems/tripplanning)| tripplanning |3.2|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Trip%20Planning/tripplanning.py)|
