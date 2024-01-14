@@ -78,7 +78,8 @@ with open('README.md', 'w+') as f:
     f.write(f'# Total problems solved: {len(contents)}\n\n')
     f.write(f"## Total score: {round(total_score, 2)}\n\n")
     f.write('\n\n'.join([
-        'Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).'
+        'Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).\n\n' +
+        f"Average difficulty per question: {round(total_score / len(contents), 2)}"
     ])+'\n\n')
     if diff_mapper != None: f.write('|Problem Name|Problem ID|Difficulty|Languages|\n|:---|:---|:---|:---|\n')
     else:                   f.write('|Problem Name|Problem ID|Languages|\n|:---|:---|:---|\n')
