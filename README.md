@@ -1,6 +1,6 @@
-# Total problems solved: 64
+# Total problems solved: 65
 
-## Total score: 158.7
+## Total score: 160.3
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -63,6 +63,7 @@ Note that the table below is auto-generated using [autokattis](https://github.co
 |[Stafur](https://open.kattis.com/problems/stafur)| stafur |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Stafur/stafur.py)|
 |[Sticky Keys](https://open.kattis.com/problems/stickykeys)| stickykeys |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sticky%20Keys/stickykeys.py)|
 |[T9 Spelling](https://open.kattis.com/problems/t9spelling)| t9spelling |1.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/T9%20Spelling/t9spelling.py)|
+|[The Plank](https://open.kattis.com/problems/theplank)| theplank |1.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/The%20Plank/theplank.py)|
 |[A Towering Problem](https://open.kattis.com/problems/towering)| towering |2.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A%20Towering%20Problem/towering.py)|
 |[Trip Planning](https://open.kattis.com/problems/tripplanning)| tripplanning |3.2|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Trip%20Planning/tripplanning.py)|
 |[Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)| vaccineefficacy |2.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Vaccine%20Efficacy/vaccineefficacy.py)|
