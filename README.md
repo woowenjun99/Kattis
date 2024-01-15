@@ -1,10 +1,10 @@
-# Total problems solved: 159
+# Total problems solved: 165
 
-## Total score: 359.1
+## Total score: 370.1
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
-Average difficulty per question: 2.26
+Average difficulty per question: 2.24
 
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
@@ -121,9 +121,15 @@ Average difficulty per question: 2.26
 |[Forced Choice](https://open.kattis.com/problems/forcedchoice)| forcedchoice |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Forced%20Choice/forcedchoice.cpp)|
 |[Free Food](https://open.kattis.com/problems/freefood)| freefood |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Free%20Food/freefood.cpp)|
 |[FYI](https://open.kattis.com/problems/fyi)| fyi |1.2|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/FYI/fyi.cpp)|
+|[Gangur](https://open.kattis.com/problems/gangur)| gangur |3.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Gangur/gangur.py)|
+|[GCD](https://open.kattis.com/problems/gcd)| gcd |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/GCD/gcd.cpp)|
+|[GCVWR](https://open.kattis.com/problems/gcvwr)| gcvwr |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/GCVWR/gcvwr.cpp)|
 |[Ghost Leg](https://open.kattis.com/problems/ghostleg)| ghostleg |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ghost%20Leg/ghostleg.py)|
 |[Goomba Stacks](https://open.kattis.com/problems/goombastacks)| goombastacks |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Goomba%20Stacks/goombastacks.py)|
+|[Grading](https://open.kattis.com/problems/grading)| grading |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Grading/grading.cpp)|
+|[Grass Seed Inc.](https://open.kattis.com/problems/grassseed)| grassseed |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Grass%20Seed%20Inc./grassseed.cpp)|
 |[Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing)| greedilyincreasing |2.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Greedily%20Increasing%20Subsequence/greedilyincreasing.py)|
+|[Greetings!](https://open.kattis.com/problems/greetings2)| greetings2 |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Greetings!/greetings2.cpp)|
 |[Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout)| hangingout |1.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Hanging%20Out%20on%20the%20Terrace/hangingout.py)|
 |[Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)| harshadnumbers |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Harshad%20Numbers/harshadnumbers.py)|
 |[Height Ordering](https://open.kattis.com/problems/height)| height |2.0|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Height%20Ordering/height.cpp)|
