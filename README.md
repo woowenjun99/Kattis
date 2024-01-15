@@ -1,6 +1,6 @@
-# Total problems solved: 198
+# Total problems solved: 199
 
-## Total score: 432.6
+## Total score: 434.2
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -98,6 +98,7 @@ Average difficulty per question: 2.18
 |[Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi)| ekkidaudi |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ekki%20dauði%20opna%20inni/ekkidaudi.py)|
 |[Ekki minn forseti](https://open.kattis.com/problems/ekkiminnforseti)| ekkiminnforseti |6.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ekki%20minn%20forseti/ekkiminnforseti.py)|
 |[Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)| electricaloutlets |1.7|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Electrical%20Outlets/electricaloutlets.cpp)|
+|[Eligibility](https://open.kattis.com/problems/eligibility)| eligibility |1.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Eligibility/eligibility.py)|
 |[Emergency Contest Running](https://open.kattis.com/problems/emergency)| emergency |4.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Emergency%20Contest%20Running/emergency.cpp)|
 |[Encoded Message](https://open.kattis.com/problems/encodedmessage)| encodedmessage |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Encoded%20Message/encodedmessage.cpp)|
 |[Erase Securely](https://open.kattis.com/problems/erase)| erase |1.8|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Erase%20Securely/erase.cpp)|
