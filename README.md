@@ -1,10 +1,10 @@
-# Total problems solved: 221
+# Total problems solved: 235
 
-## Total score: 474.3
+## Total score: 499.5
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
-Average difficulty per question: 2.15
+Average difficulty per question: 2.13
 
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
@@ -198,7 +198,21 @@ Average difficulty per question: 2.15
 |[Oddities](https://open.kattis.com/problems/oddities)| oddities |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Oddities/oddities.cpp)|
 |[Odd Man Out](https://open.kattis.com/problems/oddmanout)| oddmanout |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Odd%20Man%20Out/oddmanout.cpp)|
 |[One Chicken Per Person!](https://open.kattis.com/problems/onechicken)| onechicken |1.9|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/One%20Chicken%20Per%20Person!/onechicken.cpp)|
+|[Parking](https://open.kattis.com/problems/parking2)| parking2 |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Parking/parking2.cpp)|
+|[Path Crossings](https://open.kattis.com/problems/pathcrossings)| pathcrossings |3.1|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Path%20Crossings/pathcrossings.cpp)|
+|[Patuljci](https://open.kattis.com/problems/patuljci)| patuljci |1.8|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Patuljci/patuljci.cpp)|
+|[Pet](https://open.kattis.com/problems/pet)| pet |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Pet/pet.cpp)|
+|[Piece of Cake!](https://open.kattis.com/problems/pieceofcake2)| pieceofcake2 |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Piece%20of%20Cake!/pieceofcake2.cpp)|
+|[Pizzubestun](https://open.kattis.com/problems/pizzubestun)| pizzubestun |2.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Pizzubestun/pizzubestun.py)|
+|[Planina](https://open.kattis.com/problems/planina)| planina |1.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Planina/planina.py)|
+|[Planting Trees](https://open.kattis.com/problems/plantingtrees)| plantingtrees |1.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Planting%20Trees/plantingtrees.py)|
+|[Pokechat](https://open.kattis.com/problems/pokechat)| pokechat |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Pokechat/pokechat.cpp)|
+|[Poker Hand](https://open.kattis.com/problems/pokerhand)| pokerhand |1.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Poker%20Hand/pokerhand.py)|
+|[Pot](https://open.kattis.com/problems/pot)| pot |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Pot/pot.cpp)|
 |[Prjónamynstur](https://open.kattis.com/problems/prjonamynstur)| prjonamynstur |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Prjónamynstur/prjonamynstur.py)|
+|[Proofs](https://open.kattis.com/problems/proofs)| proofs |2.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Proofs/proofs.cpp)|
+|[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)| provincesandgold |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Provinces%20and%20Gold/provincesandgold.cpp)|
+|[Ptice](https://open.kattis.com/problems/ptice)| ptice |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Ptice/ptice.cpp)|
 |[Building Pyramids](https://open.kattis.com/problems/pyramids)| pyramids |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Building%20Pyramids/pyramids.cpp)|
 |[A Rank Problem](https://open.kattis.com/problems/rankproblem)| rankproblem |2.9|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/A%20Rank%20Problem/rankproblem.cpp)|
 |[A Rational Sequence (Take 3)](https://open.kattis.com/problems/rationalsequence3)| rationalsequence3 |2.0|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/A%20Rational%20Sequence%20(Take%203)/rationalsequence3.py)|
