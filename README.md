@@ -1,10 +1,10 @@
-# Total problems solved: 199
+# Total problems solved: 211
 
-## Total score: 434.2
+## Total score: 455.7
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
-Average difficulty per question: 2.18
+Average difficulty per question: 2.16
 
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
@@ -173,8 +173,20 @@ Average difficulty per question: 2.18
 |[Lost Lineup](https://open.kattis.com/problems/lostlineup)| lostlineup |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Lost%20Lineup/lostlineup.cpp)|
 |[Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)| luhnchecksum |1.9|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Luhn's%20Checksum%20Algorithm/luhnchecksum.cpp)|
 |[Mæting](https://open.kattis.com/problems/maeting)| maeting |1.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mæting/maeting.py)|
+|[Magic Trick](https://open.kattis.com/problems/magictrick)| magictrick |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Magic%20Trick/magictrick.cpp)|
 |[Massive Card Game](https://open.kattis.com/problems/massivecardgame)| massivecardgame |3.0|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Massive%20Card%20Game/massivecardgame.cpp)|
+|[Mastering Mastermind](https://open.kattis.com/problems/mastermind)| mastermind |2.7|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Mastering%20Mastermind/mastermind.cpp)|
 |[Message](https://open.kattis.com/problems/meddelande)| meddelande |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Message/meddelande.py)|
+|[Metronome](https://open.kattis.com/problems/metronome)| metronome |1.2|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Metronome/metronome.cpp)|
+|[Millifærsla](https://open.kattis.com/problems/millifaersla)| millifaersla |1.2|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Millifærsla/millifaersla.cpp)|
+|[Missing Numbers](https://open.kattis.com/problems/missingnumbers)| missingnumbers |1.8|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Missing%20Numbers/missingnumbers.cpp)|
+|[Mixed Fractions](https://open.kattis.com/problems/mixedfractions)| mixedfractions |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Mixed%20Fractions/mixedfractions.cpp)|
+|[Mjehuric](https://open.kattis.com/problems/mjehuric)| mjehuric |1.8|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Mjehuric/mjehuric.cpp)|
+|[Moderate Pace](https://open.kattis.com/problems/moderatepace)| moderatepace |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Moderate%20Pace/moderatepace.cpp)|
+|[Modulo](https://open.kattis.com/problems/modulo)| modulo |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Modulo/modulo.cpp)|
+|[Money Matters](https://open.kattis.com/problems/moneymatters)| moneymatters |3.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Money%20Matters/moneymatters.cpp)|
+|[Monopoly](https://open.kattis.com/problems/monopol)| monopol |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Monopoly/monopol.cpp)|
+|[Moscow Dream](https://open.kattis.com/problems/moscowdream)| moscowdream |2.0|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Moscow%20Dream/moscowdream.cpp)|
 |[Mylla](https://open.kattis.com/problems/mylla2)| mylla2 |1.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mylla/mylla2.py)|
 |[Prjónamynstur](https://open.kattis.com/problems/prjonamynstur)| prjonamynstur |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Prjónamynstur/prjonamynstur.py)|
 |[Building Pyramids](https://open.kattis.com/problems/pyramids)| pyramids |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Building%20Pyramids/pyramids.cpp)|
