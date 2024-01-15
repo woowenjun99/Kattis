@@ -1,10 +1,10 @@
-# Total problems solved: 190
+# Total problems solved: 198
 
-## Total score: 419.2
+## Total score: 432.6
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
-Average difficulty per question: 2.21
+Average difficulty per question: 2.18
 
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
@@ -161,8 +161,16 @@ Average difficulty per question: 2.21
 |[Knigs of the Forest](https://open.kattis.com/problems/knigsoftheforest)| knigsoftheforest |4.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Knigs%20of%20the%20Forest/knigsoftheforest.py)|
 |[Knot Knowledge](https://open.kattis.com/problems/knotknowledge)| knotknowledge |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Knot%20Knowledge/knotknowledge.cpp)|
 |[Kornislav](https://open.kattis.com/problems/kornislav)| kornislav |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Kornislav/kornislav.cpp)|
+|[Ladder](https://open.kattis.com/problems/ladder)| ladder |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Ladder/ladder.cpp)|
+|[Laptop Sticker](https://open.kattis.com/problems/laptopsticker)| laptopsticker |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Laptop%20Sticker/laptopsticker.cpp)|
+|[Laptop Stickers](https://open.kattis.com/problems/laptopstickers)| laptopstickers |2.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Laptop%20Stickers/laptopstickers.cpp)|
+|[Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)| lastfactorialdigit |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Last%20Factorial%20Digit/lastfactorialdigit.cpp)|
+|[Leggja saman](https://open.kattis.com/problems/leggjasaman)| leggjasaman |1.2|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Leggja%20saman/leggjasaman.cpp)|
+|[Line Them Up](https://open.kattis.com/problems/lineup)| lineup |1.7|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Line%20Them%20Up/lineup.cpp)|
 |[Liquid Assets](https://open.kattis.com/problems/liquidassets)| liquidassets |3.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Liquid%20Assets/liquidassets.cpp)|
 |[Logic Functions](https://open.kattis.com/problems/logicfunctions)| logicfunctions |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Logic%20Functions/logicfunctions.cpp)|
+|[Lost Lineup](https://open.kattis.com/problems/lostlineup)| lostlineup |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Lost%20Lineup/lostlineup.cpp)|
+|[Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)| luhnchecksum |1.9|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Luhn's%20Checksum%20Algorithm/luhnchecksum.cpp)|
 |[Mæting](https://open.kattis.com/problems/maeting)| maeting |1.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mæting/maeting.py)|
 |[Massive Card Game](https://open.kattis.com/problems/massivecardgame)| massivecardgame |3.0|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Massive%20Card%20Game/massivecardgame.cpp)|
 |[Message](https://open.kattis.com/problems/meddelande)| meddelande |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Message/meddelande.py)|
