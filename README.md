@@ -1,10 +1,10 @@
-# Total problems solved: 217
+# Total problems solved: 221
 
-## Total score: 468.1
+## Total score: 474.3
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
-Average difficulty per question: 2.16
+Average difficulty per question: 2.15
 
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
@@ -194,6 +194,10 @@ Average difficulty per question: 2.16
 |[N-sum](https://open.kattis.com/problems/nsum)| nsum |1.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/N-sum/nsum.cpp)|
 |[Number Fun](https://open.kattis.com/problems/numberfun)| numberfun |1.7|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Number%20Fun/numberfun.cpp)|
 |[Numbers On a Tree](https://open.kattis.com/problems/numbertree)| numbertree |2.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Numbers%20On%20a%20Tree/numbertree.cpp)|
+|[Odd Echo](https://open.kattis.com/problems/oddecho)| oddecho |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Odd%20Echo/oddecho.cpp)|
+|[Oddities](https://open.kattis.com/problems/oddities)| oddities |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Oddities/oddities.cpp)|
+|[Odd Man Out](https://open.kattis.com/problems/oddmanout)| oddmanout |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Odd%20Man%20Out/oddmanout.cpp)|
+|[One Chicken Per Person!](https://open.kattis.com/problems/onechicken)| onechicken |1.9|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/One%20Chicken%20Per%20Person!/onechicken.cpp)|
 |[Prjónamynstur](https://open.kattis.com/problems/prjonamynstur)| prjonamynstur |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Prjónamynstur/prjonamynstur.py)|
 |[Building Pyramids](https://open.kattis.com/problems/pyramids)| pyramids |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Building%20Pyramids/pyramids.cpp)|
 |[A Rank Problem](https://open.kattis.com/problems/rankproblem)| rankproblem |2.9|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/A%20Rank%20Problem/rankproblem.cpp)|
