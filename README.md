@@ -1,6 +1,6 @@
-# Total problems solved: 333
+# Total problems solved: 334
 
-## Total score: 666.9
+## Total score: 668.6
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -210,6 +210,7 @@ Average difficulty per question: 2.0
 |[Money Matters](https://open.kattis.com/problems/moneymatters)| moneymatters |3.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Money%20Matters/moneymatters.cpp)|
 |[Monopoly](https://open.kattis.com/problems/monopol)| monopol |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Monopoly/monopol.cpp)|
 |[Moscow Dream](https://open.kattis.com/problems/moscowdream)| moscowdream |2.0|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Moscow%20Dream/moscowdream.cpp)|
+|[Mumble Rap](https://open.kattis.com/problems/mumblerap)| mumblerap |1.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mumble%20Rap/mumblerap.py)|
 |[Mylla](https://open.kattis.com/problems/mylla2)| mylla2 |1.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Mylla/mylla2.py)|
 |[Nasty Hacks](https://open.kattis.com/problems/nastyhacks)| nastyhacks |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Nasty%20Hacks/nastyhacks.cpp)|
 |[Nicknames](https://open.kattis.com/problems/nicknames)| nicknames |3.9|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Nicknames/nicknames.cpp)|
