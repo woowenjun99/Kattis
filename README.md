@@ -1,10 +1,10 @@
-# Total problems solved: 342
+# Total problems solved: 343
 
-## Total score: 686.9
+## Total score: 691.4
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
-Average difficulty per question: 2.01
+Average difficulty per question: 2.02
 
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
@@ -272,6 +272,7 @@ Average difficulty per question: 2.01
 |[Shattered Cake](https://open.kattis.com/problems/shatteredcake)| shatteredcake |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Shattered%20Cake/shatteredcake.cpp)|
 |[Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy)| shoppinglisteasy |2.0|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Shopping%20List%20(Easy)/shoppinglisteasy.py)|
 |[Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)| shortestpath1 |3.2|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Single%20source%20shortest%20path,%20non-negative%20weights/shortestpath1.cpp)|
+|[Single source shortest path, negative weights](https://open.kattis.com/problems/shortestpath3)| shortestpath3 |4.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Single%20source%20shortest%20path,%20negative%20weights/shortestpath3.cpp)|
 |[Single source shortest path, safe path](https://open.kattis.com/problems/shortestpath4)| shortestpath4 |3.9|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Single%20source%20shortest%20path,%20safe%20path/shortestpath4.cpp)|
 |[Sibice](https://open.kattis.com/problems/sibice)| sibice |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Sibice/sibice.cpp)|
 |[Digit Product](https://open.kattis.com/problems/sifferprodukt)| sifferprodukt |1.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Digit%20Product/sifferprodukt.py)|
