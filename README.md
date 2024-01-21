@@ -1,10 +1,10 @@
-# Total problems solved: 347
+# Total problems solved: 348
 
-## Total score: 696.6
+## Total score: 701.3
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
-Average difficulty per question: 2.01
+Average difficulty per question: 2.02
 
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
@@ -308,6 +308,7 @@ Average difficulty per question: 2.01
 |[Successful Zoom](https://open.kattis.com/problems/successfulzoom)| successfulzoom |2.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Successful%20Zoom/successfulzoom.cpp)|
 |[Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem)| sumkindofproblem |1.7|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Sum%20Kind%20of%20Problem/sumkindofproblem.cpp)|
 |[Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits)| sumsquareddigits |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Sum%20Squared%20Digits%20Function/sumsquareddigits.cpp)|
+|[Map of Sweden](https://open.kattis.com/problems/sverigekartan)| sverigekartan |4.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Map%20of%20Sweden/sverigekartan.py)|
 |[Symmetric Order](https://open.kattis.com/problems/symmetricorder)| symmetricorder |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Symmetric%20Order/symmetricorder.cpp)|
 |[Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists)| synchronizinglists |1.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Synchronizing%20Lists/synchronizinglists.py)|
 |[T9 Spelling](https://open.kattis.com/problems/t9spelling)| t9spelling |1.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/T9%20Spelling/t9spelling.py)|
