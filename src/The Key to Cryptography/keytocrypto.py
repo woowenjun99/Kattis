@@ -1,0 +1,5 @@
+ciphertext = input().strip()
+key = input().strip()
+combined = list(key + ciphertext)
+for i in range(len(key), len(combined)): combined[i] = chr(ord("A") + ((ord(combined[i]) - ord(combined[i - len(key)])) % 26))
+print("".join(combined[len(key):]))
