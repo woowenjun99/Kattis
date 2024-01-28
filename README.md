@@ -1,6 +1,6 @@
-# Total problems solved: 367
+# Total problems solved: 370
 
-## Total score: 738.8
+## Total score: 743.9
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -111,6 +111,7 @@ Average difficulty per question: 2.01
 |[Drinking Song](https://open.kattis.com/problems/drinkingsong)| drinkingsong |2.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Drinking%20Song/drinkingsong.py)|
 |[DRM Messages](https://open.kattis.com/problems/drmmessages)| drmmessages |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/DRM%20Messages/drmmessages.cpp)|
 |[Dyslectionary](https://open.kattis.com/problems/dyslectionary)| dyslectionary |3.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Dyslectionary/dyslectionary.cpp)|
+|[Early Winter](https://open.kattis.com/problems/earlywinter)| earlywinter |1.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Early%20Winter/earlywinter.py)|
 |[The Easiest Problem Is This One](https://open.kattis.com/problems/easiest)| easiest |1.7|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/The%20Easiest%20Problem%20Is%20This%20One/easiest.cpp)|
 |[Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)| echoechoecho |1.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Echo%20Echo%20Echo/echoechoecho.cpp)|
 |[Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi)| ekkidaudi |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ekki%20dauði%20opna%20inni/ekkidaudi.py)|
@@ -146,6 +147,7 @@ Average difficulty per question: 2.01
 |[GCD](https://open.kattis.com/problems/gcd)| gcd |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/GCD/gcd.cpp)|
 |[GCVWR](https://open.kattis.com/problems/gcvwr)| gcvwr |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/GCVWR/gcvwr.cpp)|
 |[Ghost Leg](https://open.kattis.com/problems/ghostleg)| ghostleg |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Ghost%20Leg/ghostleg.py)|
+|[Goat Rope](https://open.kattis.com/problems/goatrope)| goatrope |1.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Goat%20Rope/goatrope.py)|
 |[Goomba Stacks](https://open.kattis.com/problems/goombastacks)| goombastacks |1.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Goomba%20Stacks/goombastacks.py)|
 |[Grading](https://open.kattis.com/problems/grading)| grading |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Grading/grading.cpp)|
 |[Grass Seed Inc.](https://open.kattis.com/problems/grassseed)| grassseed |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Grass%20Seed%20Inc./grassseed.cpp)|
@@ -314,6 +316,7 @@ Average difficulty per question: 2.01
 |[Sóttkví](https://open.kattis.com/problems/sottkvi)| sottkvi |1.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Sóttkví/sottkvi.py)|
 |[Soylent](https://open.kattis.com/problems/soylent)| soylent |1.7|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Soylent/soylent.cpp)|
 |[Spavanac](https://open.kattis.com/problems/spavanac)| spavanac |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Spavanac/spavanac.cpp)|
+|[Speeding](https://open.kattis.com/problems/speeding)| speeding |1.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Speeding/speeding.py)|
 |[Speed Limit](https://open.kattis.com/problems/speedlimit)| speedlimit |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Speed%20Limit/speedlimit.cpp)|
 |[Spritt](https://open.kattis.com/problems/spritt)| spritt |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Spritt/spritt.cpp)|
 |[Square Peg](https://open.kattis.com/problems/squarepeg)| squarepeg |1.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Square%20Peg/squarepeg.py)|
