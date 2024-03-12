@@ -1,6 +1,6 @@
-# Total problems solved: 386
+# Total problems solved: 387
 
-## Total score: 776.1
+## Total score: 777.4
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -111,6 +111,7 @@ Average difficulty per question: 2.01
 |[Divvying Up](https://open.kattis.com/problems/divvyingup)| divvyingup |1.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Divvying%20Up/divvyingup.py)|
 |[Double Password](https://open.kattis.com/problems/doublepassword)| doublepassword |1.6|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Double%20Password/doublepassword.cpp)|
 |[Disastrous Downtime](https://open.kattis.com/problems/downtime)| downtime |3.2|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Disastrous%20Downtime/downtime.cpp)[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Disastrous%20Downtime/downtime.py)|
+|[Draga Frá](https://open.kattis.com/problems/dragafra)| dragafra |1.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Draga%20Frá/dragafra.cpp)|
 |[Dragon Maid](https://open.kattis.com/problems/dragonmaid)| dragonmaid |6.0|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Dragon%20Maid/dragonmaid.cpp)|
 |[Drinking Song](https://open.kattis.com/problems/drinkingsong)| drinkingsong |2.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Drinking%20Song/drinkingsong.py)|
 |[DRM Messages](https://open.kattis.com/problems/drmmessages)| drmmessages |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/DRM%20Messages/drmmessages.cpp)|
