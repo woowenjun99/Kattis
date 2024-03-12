@@ -9,4 +9,4 @@ test:
 
 # Simulate the python compile, run and delete
 cpp:
-	g++ -std=c++17 -Wall -O2 main.cpp -o main && time ./main && rm main
+	g++ -std=c++20 -Wall -O2 main.cpp -o main
