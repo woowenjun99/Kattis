@@ -1,6 +1,6 @@
-# Total problems solved: 427
+# Total problems solved: 428
 
-## Total score: 848.9
+## Total score: 851.0
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
@@ -424,6 +424,7 @@ Average difficulty per question: 1.99
 |[Velkomin!](https://open.kattis.com/problems/velkomin)| velkomin |1.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Velkomin!/velkomin.py)|
 |[Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)| vidsnuningur |1.2|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Viðsnúningur/vidsnuningur.cpp)|
 |[Volim](https://open.kattis.com/problems/volim)| volim |1.7|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Volim/volim.py)|
+|[Popular Vote](https://open.kattis.com/problems/vote)| vote |2.1|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Popular%20Vote/vote.cpp)|
 |[Water Journal](https://open.kattis.com/problems/waterjournal)| waterjournal |1.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Water%20Journal/waterjournal.py)|
 |[Weak Vertices](https://open.kattis.com/problems/weakvertices)| weakvertices |1.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Weak%20Vertices/weakvertices.cpp)|
 |[What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay)| whatdoesthefoxsay |2.2|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/What%20does%20the%20fox%20say%3f/whatdoesthefoxsay.cpp)|
