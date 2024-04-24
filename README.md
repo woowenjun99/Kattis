@@ -1,10 +1,10 @@
-# Total problems solved: 441
+# Total problems solved: 445
 
-## Total score: 872.7
+## Total score: 884.2
 
 Note that the table below is auto-generated using [autokattis](https://github.com/RussellDash332/autokattis).
 
-Average difficulty per question: 1.98
+Average difficulty per question: 1.99
 
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
@@ -42,6 +42,8 @@ Average difficulty per question: 1.98
 |[Attendance](https://open.kattis.com/problems/attendance2)| attendance2 |1.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Attendance/attendance2.py)|
 |[Autori](https://open.kattis.com/problems/autori)| autori |1.2|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Autori/autori.cpp)|
 |[Average Character](https://open.kattis.com/problems/averagecharacter)| averagecharacter |1.9|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Average%20Character/averagecharacter.cpp)|
+|[Paradox With Averages](https://open.kattis.com/problems/averageseasy)| averageseasy |3.1|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Paradox%20With%20Averages/averageseasy.cpp)|
+|[Paradox With Averages (Hard)](https://open.kattis.com/problems/averageshard)| averageshard |3.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Paradox%20With%20Averages%20(Hard)/averageshard.cpp)|
 |[Avion](https://open.kattis.com/problems/avion)| avion |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Avion/avion.cpp)|
 |[Babelfish](https://open.kattis.com/problems/babelfish)| babelfish |2.5|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Babelfish/babelfish.py)|
 |[Backspace](https://open.kattis.com/problems/backspace)| backspace |2.1|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Backspace/backspace.py)|
@@ -57,6 +59,7 @@ Average difficulty per question: 1.98
 |[Betting](https://open.kattis.com/problems/betting)| betting |1.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Betting/betting.cpp)|
 |[Bijele](https://open.kattis.com/problems/bijele)| bijele |1.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Bijele/bijele.cpp)|
 |[Bilað Lyklaborð](https://open.kattis.com/problems/biladlyklabord)| biladlyklabord |1.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bilað%20Lyklaborð/biladlyklabord.py)|
+|[Bishops](https://open.kattis.com/problems/bishops)| bishops |2.4|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Bishops/bishops.cpp)|
 |[Bitte ein Bit](https://open.kattis.com/problems/bitteeinbit)| bitteeinbit |1.4|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Bitte%20ein%20Bit/bitteeinbit.py)|
 |[Blaðra](https://open.kattis.com/problems/bladra2)| bladra2 |1.2|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Blaðra/bladra2.cpp)|
 |[Blandað Best](https://open.kattis.com/problems/blandadbest)| blandadbest |1.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Blandað%20Best/blandadbest.py)|
@@ -102,6 +105,7 @@ Average difficulty per question: 1.98
 |[Count the Vowels](https://open.kattis.com/problems/countthevowels)| countthevowels |1.3|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Count%20the%20Vowels/countthevowels.cpp)|
 |[Course Scheduling](https://open.kattis.com/problems/coursescheduling)| coursescheduling |1.8|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Course%20Scheduling/coursescheduling.cpp)|
 |[CPR Number](https://open.kattis.com/problems/cprnummer)| cprnummer |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/CPR%20Number/cprnummer.cpp)|
+|[Crne](https://open.kattis.com/problems/crne)| crne |2.7|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Crne/crne.cpp)|
 |[Cross Country](https://open.kattis.com/problems/crosscountry)| crosscountry |2.9|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Cross%20Country/crosscountry.py)|
 |[Cudoviste](https://open.kattis.com/problems/cudoviste)| cudoviste |1.5|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](src/Cudoviste/cudoviste.cpp)|
 |[Stacking Cups](https://open.kattis.com/problems/cups)| cups |1.6|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/Stacking%20Cups/cups.py)|
