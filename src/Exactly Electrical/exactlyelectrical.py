@@ -1,0 +1,6 @@
+a, b = list(map(int, input().split()))
+c, d = list(map(int, input().split()))
+t = int(input())
+minimum_distance = abs(a - c) + abs(b - d)
+if t < minimum_distance or (t - minimum_distance) % 2 == 1: print("N")
+else: print("Y")
