@@ -6,7 +6,6 @@ line = input().strip()
 mappers = defaultdict(int)
 appeared = set()
 
-
 for i in range(0, len(line), 3):
     if (line[i], int(line[i + 1: i + 3])) in appeared:
         sys.stdout.write("GRESKA\n")
