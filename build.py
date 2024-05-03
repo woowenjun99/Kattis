@@ -64,14 +64,9 @@ for main_dir in ['src', 'Secret']:
 
         url = f"https://open.kattis.com/problems/{pid}"
         total_score += diff_mapper[pid]
-        if nus:
-            url = url.replace('open.kattis.com', 'nus.kattis.com').replace('problems/', 'problems/nus.')
-            # NUS-exclusive problems first
-            if diff_mapper: contents.append([f'!nus.{pid}', f"|[[NUS] {path}]({url})| nus.{pid} |N/A|{''.join(hyps).replace(' ','%20')}|\n"])
-            else:           contents.append([f'!nus.{pid}', f"|[[NUS] {path}]({url})| nus.{pid} |{''.join(hyps).replace(' ','%20')}|\n"]) 
-        else:
-            if diff_mapper: contents.append([pid, f"|[{path}]({url})| {pid} |{diff_mapper[pid]}|{''.join(hyps).replace(' ','%20')}|\n"]); diff_mapper.pop(pid)
-            else:           contents.append([pid, f"|[{path}]({url})| {pid} |{''.join(hyps).replace(' ','%20')}|\n"])
+
+        if diff_mapper: contents.append([pid, f"|[{path}]({url})| {pid} |{diff_mapper[pid]}|{''.join(hyps).replace(' ','%20')}|\n"]); diff_mapper.pop(pid)
+        else:           contents.append([pid, f"|[{path}]({url})| {pid} |{''.join(hyps).replace(' ','%20')}|\n"])
 
 with open('README.md', 'w+') as f:
     f.seek(0)
