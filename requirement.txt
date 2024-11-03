@@ -1,2 +1,2 @@
-autokattis>=1.6.4
+autokattis==2.0.1
 python-dotenv>=1.0.1
